@@ -6,6 +6,6 @@ I mainly program in Java but I love to expand my knowledge by using different te
 
 #### About my projects
 
-Yes I know. My projects seem weird, random and massive. But I like that. 
+Yes I know. My projects seem weird, random and insane. But I like that. 
 
 You can find them either under the [repositories](https://github.com/nikschadowsky?tab=repositories) tab or on my website [nikschadowsky.de](https://nikschadowsky.de) (currently only in German).

@@ -1,6 +1,6 @@
 ### Hey you! I'm Nik Schadowsky👋
 
-I'm an undergrad in Computer Science and in my freetime I get lost in the world of my projects. 
+I'm a master student in Computer Science and in my freetime I get lost in the world of my projects. 
 
 I mainly program in Java but I love to expand my knowledge by using different technologies and programming languages.
 
